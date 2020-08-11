@@ -13,4 +13,4 @@ The underlaying physical infrastructure and networking need to be configured to 
 
 ## Deployment guide
 
-Refer to [Deployment Guide](../docs/deployment-guide.md)
+Refer to [Deployment Guide](./deployment-guide.md)
