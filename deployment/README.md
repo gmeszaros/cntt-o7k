@@ -10,3 +10,7 @@ The underlaying physical infrastructure and networking need to be configured to 
  - Routers and switches configured
  - All server BIOS are up to date and configured
  - Physical infrastructure meets the required minimal number of servers and meets the [CNTT described specs](https://cntt-n.github.io/CNTT/doc/ref_arch/openstack/chapters/chapter04.html)
+
+## Deployment guide
+
+Refer to [Deployment Guide](../docs/deployment-guide.md)
